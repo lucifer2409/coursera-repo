@@ -1,2 +1,2 @@
 # coursera-repo
-It is a normal repo for github.
+ am editing the README file. Adding some more details about the project description.
